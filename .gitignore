@@ -3,3 +3,4 @@
 .vscode
 .pipenv
 .dlib
+.DS_Store
